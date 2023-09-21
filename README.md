@@ -4,30 +4,30 @@ I am a Computer Science Master's student 👨‍💻 live in Australia 🇦🇺 
 
 ### 🔧 I’m currently working on...
 
-- Coding (Java & Python) 💻
-- LeetCode Problems 🤯
+- Coding (Java & Python) 
+- LeetCode Problems 
 
 ### 🌱 I'm currently learning...
 
-- Machine Learning 🤖
-- Mathematics ➗
-- Software Development & OOP 🍏
+- Machine Learning 
+- Mathematics 
+- Software Development & OOP 
 
 ### 🤔 I’m looking for help with...
 
-- An internship / part-time job opportunity 💼
+- An internship / part-time job opportunity 
 
 ### 🎸 I'm interested in...
 
-- Prog-rock Music 5️⃣4️⃣
-- Digital Nomad 🌏
-- Street Photography 📸
-- Hiking ⛰️
+- Prog-rock Music 
+- Digital Nomad 
+- Street Photography 
+- Hiking 
 - ...
 
 ### 🔗 More about me...
 
-- Daily life & wild thoughts on [Twitter](https://twitter.com/AvarbyKira) 🐦
-- Long Pieces at [My Blog](https://avarbykira.github.io) 📝
-- My CV is [here]() 👔
-- Contact me: avarbykira@gmail.com ✉️
+- Daily life & wild thoughts on [Twitter](https://twitter.com/AvarbyKira) 
+- Long Pieces at [My Blog](https://avarbykira.github.io) 
+- My CV is [here]() 
+- Contact me: avarbykira@gmail.com 
