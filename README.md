@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a Computer Science Master's student 👨‍💻 live in Australia and China.
+I am a Computer Science Master's student 👨‍💻 live in Australia 🇦🇺 and China 🇨🇳
 
 ### 🔧 I’m currently working on...
 
