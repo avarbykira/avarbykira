@@ -1,35 +1,34 @@
 ### Hi there 👋
 
-### Facts About me...
+I am a Computer Science Master's student 👨‍💻 live in Australia and China.
 
-- Master Student. Year 1/2.
-- Live in Australia and China.
-- Major in Computer Science
-
-### I’m currently working on:
+### 🔧 I’m currently working on...
 
 - Machine Learning
-- Looking for an internship
+- Mathematics
+- Java
 
-### My Interests...
+### 🌱 I'm currently learning...
+
+- Music theory & production
+- Android application development
+
+### 🤔 I’m looking for help with...
+
+- An internship opportunity
+
+### 🎸 I'm interested in:
 
 - Music
-- Film 
-- FIRE
 - Digital Nomad
 - Photography
 - Ping-Pong
 - Hiking
 - ...
 
-### I'm currently learning:
+### 🔗 Find me at
 
-- Music theory & production
-- Android application development
-
-### How to reach me:
-
-- Twitter: https://twitter.com/AvarbyKira
+- Twitter: [AvarbyKira](https://twitter.com/AvarbyKira)
 - Email: avarbykira@gmail.com
 
 
