@@ -29,5 +29,5 @@ I am a Computer Science Master's student 👨‍💻 live in Australia 🇦🇺 
 
 - Daily life & wild thoughts on [Twitter](https://twitter.com/AvarbyKira) 
 - Long Pieces at [My Blog](https://avarbykira.github.io) 
-- My CV is [here]() 
+- My CV is [here](https://avarbykira.github.io/about/) 
 - Contact me: avarbykira@gmail.com 
