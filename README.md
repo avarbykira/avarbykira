@@ -4,14 +4,9 @@ I am a Computer Science Master student 👨‍💻 live in Australia 🇦🇺 an
 
 ### 🔧 I’m currently working on...
 
-- Coding (Java & Python) 
-- LeetCode Problems 
-
-### 🌱 I'm currently learning...
-
+- Coding: Java & Python
 - Machine Learning 
-- Mathematics 
-- Software Development & OOP 
+- Game Development: Unity & C#
 
 ### 🤔 I’m looking for help with...
 
@@ -27,7 +22,6 @@ I am a Computer Science Master student 👨‍💻 live in Australia 🇦🇺 an
 
 ### 🔗 More about me...
 
-- Daily life & wild thoughts on [Twitter](https://twitter.com/AvarbyKira) 
-- Long Pieces at [My Blog](https://avarbykira.github.io) 
-- My CV is [here](https://avarbykira.github.io/about/) 
-- Contact me: avarbykira@gmail.com 
+- My life on [Twitter](https://twitter.com/AvarbyKira) 
+- Share my knowledge: [My Blog](https://avarbykira.github.io) 
+- Contact me: [E-mail](mailto:avarbykira@gmail.com) or [telegram](https://t.me/avarbykira)
