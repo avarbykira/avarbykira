@@ -10,6 +10,5 @@ I am a Computer Science Master student 👨‍💻 live in Australia 🇦🇺 an
 
 ### 🔗 Some links
 
-- Life on [Twitter](https://twitter.com/AvarbyKira) 
-- Share my knowledge: [My Blog](https://avarbykira.github.io) 
+- Place I share my knowledge: [My Blog](https://avarbykira.github.io) 
 - Contact me: [E-mail](mailto:avarbykira@gmail.com) or [telegram](https://t.me/avarbykira)
