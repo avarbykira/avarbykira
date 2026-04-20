@@ -1,5 +1,5 @@
 ### 👋 Hi there
 
-I am a Computer Science student 👨‍💻 live in Australia 🇦🇺 and China 🇨🇳
+My Blog: https://tcli.me
 
-Contact me: [E-mail](mailto:avarbykira@gmail.com) or [telegram](https://t.me/avarbykira)
+Contact me: [E-mail](mailto:avarbykira@gmail.com)
